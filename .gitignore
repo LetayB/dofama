@@ -1,0 +1,7 @@
+/node_modules
+/yarn-error.log
+/test.mongodb
+backend/node_modules
+frontend/node_modules
+backend/package-lock.json
+frontend/react.dockerfile
