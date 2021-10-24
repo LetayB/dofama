@@ -1,12 +1,10 @@
 import React from 'react';
 import './App.css';
-import Item from './components/Item';
+import { ShowWeapon } from './components/Weapon';
 
 const App = () => {
   return (
-    <div className="App">
-      <Item />
-    </div>
+    <ShowWeapon/>
   );
 };
 
